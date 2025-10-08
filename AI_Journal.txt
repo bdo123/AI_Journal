@@ -15,3 +15,6 @@ Moreover, I once again used AI to create more lecture notes. Link: https://chatg
 
 Week 4
 Again, I used AI to summarize and explain the instructions of a discussion post from INST352. Link: https://chatgpt.com/share/68dc23df-f6c8-800f-bf8b-db605114de17
+
+Week 5
+I forgot to go through the weekly assigned reading for INST466 in order to complete the warm up, so I used ChatGPT to extract key points I can use to answer the warm up prompt. Link: https://chatgpt.com/share/68e67f83-e0f4-800f-a49d-10d1d9b94e50

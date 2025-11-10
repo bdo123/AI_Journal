@@ -28,3 +28,6 @@ I also used AI to condense the instructions for a long discussion post assignmen
 
 Week 8
 I had an INST314 exam this week and was allowed to bring a cheat sheet. I uploaded the practice exam questions and answer keys from the study sessions I attended to help me create the cheat sheet and review the problems I found difficult. Link: https://chatgpt.com/share/690b863c-f6f0-800f-9016-c173993f14c9
+
+Week 9 
+I have an INST335 exam coming up this week. It’s open-note, so I’m allowed to use lecture slides and other materials. However, I want to create a summary or cheat sheet to help me prepare, since the exam consists of multiple short essay questions. I used Google Gemini to condense the key information I might need so I can answer the questions efficiently within the 50-minute time limit. Link: https://gemini.google.com/share/385f217f7376

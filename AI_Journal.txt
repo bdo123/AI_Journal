@@ -31,3 +31,6 @@ I had an INST314 exam this week and was allowed to bring a cheat sheet. I upload
 
 Week 9 
 I have an INST335 exam coming up this week. It’s open-note, so I’m allowed to use lecture slides and other materials. However, I want to create a summary or cheat sheet to help me prepare, since the exam consists of multiple short essay questions. I used Google Gemini to condense the key information I might need so I can answer the questions efficiently within the 50-minute time limit. Link: https://gemini.google.com/share/385f217f7376
+
+Week 10
+I used ChatGPT to summarize this week’s INST335 lecture slides and extract key information in order to complete the weekly quizzes. Link: https://chatgpt.com/share/691b4c43-6634-800f-b43b-d51f674a7e5d
